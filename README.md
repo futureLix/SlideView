@@ -11,7 +11,7 @@ Add the following to your app's build.gradle:
 
 ```groovy
 dependencies {
-	        implementation 'com.github.futureLix:SlideView:v1.0'
+    implementation 'com.github.futureLix:SlideView:v1.0'
 }
 ```
 ## How to use
@@ -40,7 +40,6 @@ dependencies {
   
 </LinearLayout>
 ```
-#### or :
 
 
 #### Create :
