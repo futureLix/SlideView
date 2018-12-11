@@ -34,7 +34,7 @@ dependencies {
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:back_ground=""
-        android:foreground=""
+        app:foreground=""
         app:text_size=""
         android:gravity="center"/>
   
